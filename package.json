@@ -15,7 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "bin": {
-    "get-datetime": "./getDateTime.js"
+    "get-datetime": "./getDateTime.js",
+    "guess-number": "./guessNumber.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
