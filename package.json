@@ -15,7 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "bin": {
-    "cmd": "./index.js"
+    "heads-or-tails": "./headsOrTails.js",
+    "heads-or-tails-stats": "./headsOrTailsStats.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
